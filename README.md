@@ -78,7 +78,7 @@ Watch VisionWalk in action:
    ![Block Diagram](https://github.com/RiwanBhati/VisionWalk-Project/blob/13782343075eac043d2674f0d0ffcf255087fd40/VisionWalk%20Block%20diagram.jpg)
 
 *   **Circuit Diagram:**
-   ![Circuit Diagram]()
+   ![Circuit Diagram](https://github.com/RiwanBhati/VisionWalk-Project/blob/e72d2dda05afc9429569cb557166ae07c12a66e0/Visionwalk%20Circuit%20diagram.pdf)
 
 ## 📄 Project Documentation
 
