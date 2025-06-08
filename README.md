@@ -5,7 +5,7 @@
 ---
 
 
- ![VisionWalk Prototype](https://github.com/RiwanBhati/VisionWalk-Project/blob/84fbc4ac6de1cd358c02a8b25d8a15cc777efcfe/VisionWalk%20Prototype.jpg) -->
+ ![VisionWalk Prototype](https://github.com/RiwanBhati/VisionWalk-Project/blob/84fbc4ac6de1cd358c02a8b25d8a15cc777efcfe/VisionWalk%20Prototype.jpg) 
 
 ---
 
@@ -13,7 +13,7 @@
 
 Navigating independently can be a significant challenge for visually impaired individuals, often leading to accidents. VisionWalk aims to mitigate these risks by providing a wearable, cost-effective solution for obstacle detection. The smart glasses alert the user to nearby obstructions through auditory cues, enhancing their spatial awareness and safety.
 
-This project was developed as part of the second-semester curriculum at BML Munjal University and was presented at the TechSparX event.
+This project was developed as part of the second-semester curriculum at BML Munjal University and was presented at the TechSparX.I event.
 
 ##  Demo
 
