@@ -75,10 +75,10 @@ Watch VisionWalk in action:
 ## 📊 Diagrams
 
 *   **Block Diagram:**
-   ![Block Diagram](./diagrams/block_diagram.png))*
+   ![Block Diagram](https://github.com/RiwanBhati/VisionWalk-Project/blob/13782343075eac043d2674f0d0ffcf255087fd40/VisionWalk%20Block%20diagram.jpg)
 
 *   **Circuit Diagram:**
-   ![Circuit Diagram](./diagrams/circuit_diagram.png))*
+   ![Circuit Diagram]()
 
 ## 📄 Project Documentation
 
